@@ -1,4 +1,4 @@
-# JobRecommendation
+# Job Recommendation
 - Designed an interactive web page (HTML, CSS, JavaScript, AJAX) for users to search positions and apply online
 - Improved personalized position recommendation based on search history and favorite records
 - Created Java servlets with RESTful APIs to handle HTTP requests and responses
